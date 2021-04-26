@@ -38,6 +38,13 @@ This workflow makes it easy to access your own Superpeer profile.
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.1] - 2021-04-26 
+### Added
+- Added shortcut for Release Notes
+
+### Changed
+- Changed List Filter to use `var:actionPrefix` instead of ellipses
+
 ## [v0.1.0] - 2021-01-10
 - Initial Release
 
