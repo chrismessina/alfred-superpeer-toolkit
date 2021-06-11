@@ -38,7 +38,15 @@ This workflow makes it easy to access your own Superpeer profile.
 
 # Changelog[¹](https://keepachangelog.com/)
 
-## [v0.1.1] - 2021-04-26 
+## [v0.1.2] - 2021-06-10
+### Added
+- Added Series shortcuts to List Filter
+- Added shortcut for creating a Series
+
+### Fixed
+- Changed capitalization of `New` keyword title
+
+## [v0.1.1] - 2021-04-26
 ### Added
 - Added shortcut for Release Notes
 
